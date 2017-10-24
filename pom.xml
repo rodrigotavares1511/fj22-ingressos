@@ -166,5 +166,10 @@
             </plugin>
         </plugins>
     </build>
-
+	<developers>
+		<developer>
+			<name>Rodrigo Tavares</name>
+			<email>rodrigotavares1511@gmail.com</email>
+		</developer>
+	</developers>
 </project>
